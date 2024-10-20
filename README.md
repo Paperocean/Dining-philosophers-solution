@@ -1,4 +1,4 @@
-# Problem Filozofów przy Obiedzie
+# Problem Filozofów przy obiedzie
 
 Ten kod w C++ implementuje symulację problemu filozofów przy obiedzie, wykorzystując wątki i mechanizmy synchronizacji.
 
